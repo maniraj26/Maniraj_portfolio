@@ -1,2 +1,79 @@
-# Maniraj_portfolio
-This my portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-9">
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+     <title>portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>
+     portfolio
+</h1>
+<hr>
+<h2>About me</h2>
+     <pr1>
+      Hi' everyone <br>
+My name is Mani raj.<br> I am 3 year student in ECE department student in Guru Nanak dev engineering Ludhiana ,Punjab 
+          </pr1>
+<hr>
+<img src="image2/mani.jpeg"
+alt="This is the picture of Mani raj"
+height="200px"> 
+<hr>
+<h2> My Qualification </h2>
+<pr> 1.10<sup>th</sup>. <br>
+     2.12<sup>th</sup>. <br>
+     3.3'year(ECE)
+     </pr>
+     <hr>
+     <h2> My Technical skill</h2>
+     <pr> 1. html <br>
+          2. css <br>
+          3. javascript<br>
+          4. IOT  
+          </pr>
+          <hr>
+     <h2> My Soft Skill</h2>
+     <pr>1.event management <br>
+         2.communication skill
+      
+     
+     </pr>
+     <hr>
+     <h2> social network </h2>
+      <pr>
+     linkdin: <a href="https://www.linkedin.com/in/mani-raj-105756255/">linkdin</a>
+     <br>
+     Instagram: <a href="https://www.instagram.com/mani_prakash18/">instagram</a>
+     <br>
+     Facebook: <a href="https://www.facebook.com/profile.php?id=100013144187520">facebook</a>  
+     </pr>
+<hr>
+<h2>contact me </h2>
+<pr>
+     Name: Mani Raj<br>
+     call no:9341941459<br>
+     email:maniraj8540@gamil.com
+</pr>
+<hr>
+<h3>Query</h3>
+<form>
+     <form action="/Query">
+          UserName: <input type = "text"placeholder="email $ number"><br>
+          password: <input type = "Password"><br>
+          Feedback: <input type = "Feedback"><br>
+          Date    : <input type = "date"><br>
+          file: <input type = "file"><br>
+          login: <input type = "checkbox" name="login" value="yes">yes<br>
+          <input type = "checkbox" name="login" value="no">no<br>
+          <input type="submit"><br>
+          <input type="reset"><br>
+           google sheet: <a href="https://docs.google.com/spreadsheets/d/1qj5dymn2Dt5EpW7tG2c2jiMBFV1xfKftHA1xnxy9qIc/edit?gid=0#gid=0">google sheet</a><br>
+          </form>
+
+     
+          
+
+</body>
+</html>
